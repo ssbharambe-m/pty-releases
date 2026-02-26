@@ -1,6 +1,15 @@
 {
   "version": "0.2.0",
-  "windows": null,
-  "linux": null,
-  "macos": "https://github.com/ssbharambe-m/pty-releases/releases/download/0.2.0/lunel-pty"
+  "windows": {
+    "arm": null,
+    "x86": null,
+  },
+  "linux": {
+    "arm": null,
+    "x86": null,
+  },
+  "macos": {
+    "arm": "https://github.com/ssbharambe-m/pty-releases/releases/download/0.2.0/lunel-pty",
+    "x86": null,
+  }  
 }
