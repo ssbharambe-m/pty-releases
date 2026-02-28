@@ -6,10 +6,10 @@
   },
   "linux": {
     "arm": null,
-    "x86": null
+    "x86": "https://github.com/ssbharambe-m/pty-releases/releases/download/0.2.0/lunel-pty-linux-x86"
   },
   "macos": {
-    "arm": "https://github.com/ssbharambe-m/pty-releases/releases/download/0.2.0/lunel-pty",
+    "arm": "https://github.com/ssbharambe-m/pty-releases/releases/download/0.2.0/lunel-pty-mac-arm",
     "x86": null
   }  
 }
